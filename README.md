@@ -4,7 +4,7 @@ In this project we are going to be accessing the GitHub API and building a socia
 
 ## Need to know
 
-* Adding dependencies to a project:
+* Adding dependencies to aa project:
   * Via script element
   * Using npm
 * JavaScript:
